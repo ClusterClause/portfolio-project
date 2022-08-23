@@ -12,7 +12,7 @@ lazy-object-proxy==1.4.3
 mccabe==0.6.1
 # Editable install with no version control (mlagents-envs==0.12.1)
 -e d:\program files\unity hub\gameproject\ml-agents-master\ml-agents-envs
-numpy==1.17.3
+numpy==1.22.0
 Pillow==6.2.1
 protobuf==3.11.2
 psycopg2-binary==2.8.4
